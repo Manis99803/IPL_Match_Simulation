@@ -51,6 +51,13 @@ The technologies used in our project are:
 	Input file for the simulation
 
 Phase 3:
+
+	PlayerMapping.csv : File which has all the mapping of player name to some number, as decision tree takes only numerical data the mappings  are done.
+
+	VenueMapping : File which has all the mapping of venue to some number
+
+	Team Mapping : File which has all the mapping of team name to some number
+	
 	Data set used for the phase
 + Final_Data_Set : The one used for the decision tree.
 	 Format : Team number, Batsman 1 number, Batsman 2 number,Bowler number,Venue number, Batsman 1 strike rate, Batsman1 average, Batsman2 strike rate, Batsman2 average, Bowler Economy, Bowler Strike rate, Confidence value, Runs
