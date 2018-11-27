@@ -1,0 +1,230 @@
+Innings,Over,Teamname,Batsman,Bowler,Non-striker,Runs,Wicket,Total
+1,0.1,Delhi Daredevils,R Tewatia,B Kumar,Sandeep Sharma,0,0,0
+1,0.2,Delhi Daredevils,R Tewatia,B Kumar,Sandeep Sharma,1,0,1
+1,0.3,Delhi Daredevils,Sandeep Sharma,B Kumar,R Tewatia,2,0,3
+1,0.4,Delhi Daredevils,Sandeep Sharma,B Kumar,R Tewatia,1,0,4
+1,0.5,Delhi Daredevils,R Tewatia,B Kumar,Sandeep Sharma,1,0,5
+1,0.6,Delhi Daredevils,Sandeep Sharma,B Kumar,R Tewatia,1,0,6
+1,1.1,Delhi Daredevils,R Tewatia,Mohammad Nabi,Sandeep Sharma,1,0,7
+1,1.2,Delhi Daredevils,Sandeep Sharma,Mohammad Nabi,R Tewatia,1,0,8
+1,1.3,Delhi Daredevils,R Tewatia,Mohammad Nabi,Sandeep Sharma,0,0,8
+1,1.4,Delhi Daredevils,R Tewatia,Mohammad Nabi,Sandeep Sharma,0,0,8
+1,1.5,Delhi Daredevils,R Tewatia,Mohammad Nabi,Sandeep Sharma,0,0,8
+1,1.6,Delhi Daredevils,R Tewatia,Mohammad Nabi,Sandeep Sharma,0,1,8
+1,2.1,Delhi Daredevils,MJ Henry,Mohammed Siraj,Sandeep Sharma,2,0,10
+1,2.2,Delhi Daredevils,MJ Henry,Mohammed Siraj,Sandeep Sharma,1,0,11
+1,2.3,Delhi Daredevils,Sandeep Sharma,Mohammed Siraj,MJ Henry,1,0,12
+1,2.4,Delhi Daredevils,MJ Henry,Mohammed Siraj,Sandeep Sharma,2,0,14
+1,2.5,Delhi Daredevils,MJ Henry,Mohammed Siraj,Sandeep Sharma,0,0,14
+1,2.6,Delhi Daredevils,MJ Henry,Mohammed Siraj,Sandeep Sharma,0,1,14
+1,3.1,Delhi Daredevils,MM Sharma,S Kaul,Sandeep Sharma,4,0,18
+1,3.2,Delhi Daredevils,MM Sharma,S Kaul,Sandeep Sharma,1,0,19
+1,3.3,Delhi Daredevils,Sandeep Sharma,S Kaul,MM Sharma,1,0,20
+1,3.4,Delhi Daredevils,MM Sharma,S Kaul,Sandeep Sharma,1,0,21
+1,3.5,Delhi Daredevils,Sandeep Sharma,S Kaul,MM Sharma,1,0,22
+1,3.6,Delhi Daredevils,MM Sharma,S Kaul,Sandeep Sharma,2,0,24
+1,4.1,Delhi Daredevils,Sandeep Sharma,Rashid Khan,MM Sharma,1,0,25
+1,4.2,Delhi Daredevils,MM Sharma,Rashid Khan,Sandeep Sharma,1,0,26
+1,4.3,Delhi Daredevils,Sandeep Sharma,Rashid Khan,MM Sharma,2,0,28
+1,4.4,Delhi Daredevils,Sandeep Sharma,Rashid Khan,MM Sharma,2,0,30
+1,4.5,Delhi Daredevils,Sandeep Sharma,Rashid Khan,MM Sharma,1,0,31
+1,4.6,Delhi Daredevils,MM Sharma,Rashid Khan,Sandeep Sharma,2,0,33
+1,5.1,Delhi Daredevils,Sandeep Sharma,MC Henriques,MM Sharma,2,0,35
+1,5.2,Delhi Daredevils,Sandeep Sharma,MC Henriques,MM Sharma,2,0,37
+1,5.3,Delhi Daredevils,Sandeep Sharma,MC Henriques,MM Sharma,2,0,39
+1,5.4,Delhi Daredevils,Sandeep Sharma,MC Henriques,MM Sharma,2,0,41
+1,5.5,Delhi Daredevils,Sandeep Sharma,MC Henriques,MM Sharma,0,1,41
+1,5.6,Delhi Daredevils,MJ Guptill,MC Henriques,MM Sharma,2,0,43
+1,6.1,Delhi Daredevils,MM Sharma,NM Coulter-Nile,MJ Guptill,1,0,44
+1,6.2,Delhi Daredevils,MJ Guptill,NM Coulter-Nile,MM Sharma,2,0,46
+1,6.3,Delhi Daredevils,MJ Guptill,NM Coulter-Nile,MM Sharma,0,0,46
+1,6.4,Delhi Daredevils,MJ Guptill,NM Coulter-Nile,MM Sharma,0,0,46
+1,6.5,Delhi Daredevils,MJ Guptill,NM Coulter-Nile,MM Sharma,1,0,47
+1,6.6,Delhi Daredevils,MM Sharma,NM Coulter-Nile,MJ Guptill,0,0,47
+1,7.1,Delhi Daredevils,MJ Guptill,UT Yadav,MM Sharma,2,0,49
+1,7.2,Delhi Daredevils,MJ Guptill,UT Yadav,MM Sharma,0,0,49
+1,7.3,Delhi Daredevils,MJ Guptill,UT Yadav,MM Sharma,2,0,51
+1,7.4,Delhi Daredevils,MJ Guptill,UT Yadav,MM Sharma,1,0,52
+1,7.5,Delhi Daredevils,MM Sharma,UT Yadav,MJ Guptill,0,0,52
+1,7.6,Delhi Daredevils,MM Sharma,UT Yadav,MJ Guptill,1,0,53
+1,8.1,Delhi Daredevils,MJ Guptill,CR Woakes,MM Sharma,2,0,55
+1,8.2,Delhi Daredevils,MJ Guptill,CR Woakes,MM Sharma,0,0,55
+1,8.3,Delhi Daredevils,MJ Guptill,CR Woakes,MM Sharma,2,0,57
+1,8.4,Delhi Daredevils,MJ Guptill,CR Woakes,MM Sharma,2,0,59
+1,8.5,Delhi Daredevils,MJ Guptill,CR Woakes,MM Sharma,0,1,59
+1,8.6,Delhi Daredevils,HM Amla,CR Woakes,MM Sharma,1,0,60
+1,9.1,Delhi Daredevils,MM Sharma,YK Pathan,HM Amla,1,0,61
+1,9.2,Delhi Daredevils,HM Amla,YK Pathan,MM Sharma,0,0,61
+1,9.3,Delhi Daredevils,HM Amla,YK Pathan,MM Sharma,0,0,61
+1,9.4,Delhi Daredevils,HM Amla,YK Pathan,MM Sharma,2,0,63
+1,9.5,Delhi Daredevils,HM Amla,YK Pathan,MM Sharma,1,0,64
+1,9.6,Delhi Daredevils,MM Sharma,YK Pathan,HM Amla,0,0,64
+1,10.1,Delhi Daredevils,HM Amla,SP Narine,MM Sharma,1,0,65
+1,10.2,Delhi Daredevils,MM Sharma,SP Narine,HM Amla,2,0,67
+1,10.3,Delhi Daredevils,MM Sharma,SP Narine,HM Amla,2,0,69
+1,10.4,Delhi Daredevils,MM Sharma,SP Narine,HM Amla,1,0,70
+1,10.5,Delhi Daredevils,HM Amla,SP Narine,MM Sharma,2,0,72
+1,10.6,Delhi Daredevils,HM Amla,SP Narine,MM Sharma,1,0,73
+1,11.1,Delhi Daredevils,MM Sharma,Kuldeep Yadav,HM Amla,0,0,73
+1,11.2,Delhi Daredevils,MM Sharma,Kuldeep Yadav,HM Amla,4,0,77
+1,11.3,Delhi Daredevils,MM Sharma,Kuldeep Yadav,HM Amla,1,0,78
+1,11.4,Delhi Daredevils,HM Amla,Kuldeep Yadav,MM Sharma,1,0,79
+1,11.5,Delhi Daredevils,MM Sharma,Kuldeep Yadav,HM Amla,2,0,81
+1,11.6,Delhi Daredevils,MM Sharma,Kuldeep Yadav,HM Amla,0,1,81
+1,12.1,Delhi Daredevils,VR Aaron,JD Unadkat,HM Amla,2,0,83
+1,12.2,Delhi Daredevils,VR Aaron,JD Unadkat,HM Amla,1,0,84
+1,12.3,Delhi Daredevils,HM Amla,JD Unadkat,VR Aaron,2,0,86
+1,12.4,Delhi Daredevils,HM Amla,JD Unadkat,VR Aaron,0,0,86
+1,12.5,Delhi Daredevils,HM Amla,JD Unadkat,VR Aaron,0,0,86
+1,12.6,Delhi Daredevils,HM Amla,JD Unadkat,VR Aaron,0,0,86
+1,13.1,Delhi Daredevils,VR Aaron,Washington Sundar,HM Amla,0,0,86
+1,13.2,Delhi Daredevils,VR Aaron,Washington Sundar,HM Amla,4,0,90
+1,13.3,Delhi Daredevils,VR Aaron,Washington Sundar,HM Amla,2,0,92
+1,13.4,Delhi Daredevils,VR Aaron,Washington Sundar,HM Amla,1,0,93
+1,13.5,Delhi Daredevils,HM Amla,Washington Sundar,VR Aaron,0,0,93
+1,13.6,Delhi Daredevils,HM Amla,Washington Sundar,VR Aaron,4,0,97
+1,14.1,Delhi Daredevils,VR Aaron,BA Stokes,HM Amla,2,0,99
+1,14.2,Delhi Daredevils,VR Aaron,BA Stokes,HM Amla,2,0,101
+1,14.3,Delhi Daredevils,VR Aaron,BA Stokes,HM Amla,2,0,103
+1,14.4,Delhi Daredevils,VR Aaron,BA Stokes,HM Amla,1,0,104
+1,14.5,Delhi Daredevils,HM Amla,BA Stokes,VR Aaron,1,0,105
+1,14.6,Delhi Daredevils,VR Aaron,BA Stokes,HM Amla,0,1,105
+1,15.1,Delhi Daredevils,T Natarajan,Imran Tahir,HM Amla,2,0,107
+1,15.2,Delhi Daredevils,T Natarajan,Imran Tahir,HM Amla,2,0,109
+1,15.3,Delhi Daredevils,T Natarajan,Imran Tahir,HM Amla,2,0,111
+1,15.4,Delhi Daredevils,T Natarajan,Imran Tahir,HM Amla,2,0,113
+1,15.5,Delhi Daredevils,T Natarajan,Imran Tahir,HM Amla,0,1,113
+1,15.6,Delhi Daredevils,DA Warner,Imran Tahir,HM Amla,2,0,115
+1,16.1,Delhi Daredevils,HM Amla,SN Thakur,DA Warner,2,0,117
+1,16.2,Delhi Daredevils,HM Amla,SN Thakur,DA Warner,4,0,121
+1,16.3,Delhi Daredevils,HM Amla,SN Thakur,DA Warner,2,0,123
+1,16.4,Delhi Daredevils,HM Amla,SN Thakur,DA Warner,4,0,127
+1,16.5,Delhi Daredevils,HM Amla,SN Thakur,DA Warner,0,1,127
+1,16.6,Delhi Daredevils,S Dhawan,SN Thakur,DA Warner,1,0,128
+1,17.1,Delhi Daredevils,DA Warner,DT Christian,S Dhawan,2,0,130
+1,17.2,Delhi Daredevils,DA Warner,DT Christian,S Dhawan,2,0,132
+1,17.3,Delhi Daredevils,DA Warner,DT Christian,S Dhawan,2,0,134
+1,17.4,Delhi Daredevils,DA Warner,DT Christian,S Dhawan,1,0,135
+1,17.5,Delhi Daredevils,S Dhawan,DT Christian,DA Warner,2,0,137
+1,17.6,Delhi Daredevils,S Dhawan,DT Christian,DA Warner,1,0,138
+1,18.1,Delhi Daredevils,DA Warner,MJ McClenaghan,S Dhawan,0,0,138
+1,18.2,Delhi Daredevils,DA Warner,MJ McClenaghan,S Dhawan,1,0,139
+1,18.3,Delhi Daredevils,S Dhawan,MJ McClenaghan,DA Warner,1,0,140
+1,18.4,Delhi Daredevils,DA Warner,MJ McClenaghan,S Dhawan,0,0,140
+1,18.5,Delhi Daredevils,DA Warner,MJ McClenaghan,S Dhawan,2,0,142
+1,18.6,Delhi Daredevils,DA Warner,MJ McClenaghan,S Dhawan,1,0,143
+1,19.1,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,0,0,143
+1,19.2,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,2,0,145
+1,19.3,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,0,0,145
+1,19.4,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,4,0,149
+1,19.5,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,0,0,149
+1,19.6,Delhi Daredevils,S Dhawan,SL Malinga,DA Warner,0,0,149
+2,0.1,Sunrisers Hyderabad,MK Pandey,Harbhajan Singh,SP Jackson,1,0,1
+2,0.2,Sunrisers Hyderabad,SP Jackson,Harbhajan Singh,MK Pandey,2,0,3
+2,0.3,Sunrisers Hyderabad,SP Jackson,Harbhajan Singh,MK Pandey,1,0,4
+2,0.4,Sunrisers Hyderabad,MK Pandey,Harbhajan Singh,SP Jackson,1,0,5
+2,0.5,Sunrisers Hyderabad,SP Jackson,Harbhajan Singh,MK Pandey,0,0,5
+2,0.6,Sunrisers Hyderabad,SP Jackson,Harbhajan Singh,MK Pandey,4,0,9
+2,1.1,Sunrisers Hyderabad,MK Pandey,MJ McClenaghan,SP Jackson,2,0,11
+2,1.2,Sunrisers Hyderabad,MK Pandey,MJ McClenaghan,SP Jackson,2,0,13
+2,1.3,Sunrisers Hyderabad,MK Pandey,MJ McClenaghan,SP Jackson,1,0,14
+2,1.4,Sunrisers Hyderabad,SP Jackson,MJ McClenaghan,MK Pandey,0,0,14
+2,1.5,Sunrisers Hyderabad,SP Jackson,MJ McClenaghan,MK Pandey,0,0,14
+2,1.6,Sunrisers Hyderabad,SP Jackson,MJ McClenaghan,MK Pandey,2,0,16
+2,2.1,Sunrisers Hyderabad,MK Pandey,SL Malinga,SP Jackson,2,0,18
+2,2.2,Sunrisers Hyderabad,MK Pandey,SL Malinga,SP Jackson,1,0,19
+2,2.3,Sunrisers Hyderabad,SP Jackson,SL Malinga,MK Pandey,0,0,19
+2,2.4,Sunrisers Hyderabad,SP Jackson,SL Malinga,MK Pandey,1,0,20
+2,2.5,Sunrisers Hyderabad,MK Pandey,SL Malinga,SP Jackson,1,0,21
+2,2.6,Sunrisers Hyderabad,SP Jackson,SL Malinga,MK Pandey,1,0,22
+2,3.1,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,2,0,24
+2,3.2,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,4,0,28
+2,3.3,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,0,0,28
+2,3.4,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,4,0,32
+2,3.5,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,0,0,32
+2,3.6,Sunrisers Hyderabad,MK Pandey,JJ Bumrah,SP Jackson,0,0,32
+2,4.1,Sunrisers Hyderabad,SP Jackson,KV Sharma,MK Pandey,4,0,36
+2,4.2,Sunrisers Hyderabad,SP Jackson,KV Sharma,MK Pandey,1,0,37
+2,4.3,Sunrisers Hyderabad,MK Pandey,KV Sharma,SP Jackson,2,0,39
+2,4.4,Sunrisers Hyderabad,MK Pandey,KV Sharma,SP Jackson,1,0,40
+2,4.5,Sunrisers Hyderabad,SP Jackson,KV Sharma,MK Pandey,0,0,40
+2,4.6,Sunrisers Hyderabad,SP Jackson,KV Sharma,MK Pandey,4,0,44
+2,5.1,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,2,0,46
+2,5.2,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,0,0,46
+2,5.3,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,0,0,46
+2,5.4,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,2,0,48
+2,5.5,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,0,0,48
+2,5.6,Sunrisers Hyderabad,MK Pandey,HH Pandya,SP Jackson,2,0,50
+2,6.1,Sunrisers Hyderabad,SP Jackson,B Kumar,MK Pandey,1,0,51
+2,6.2,Sunrisers Hyderabad,MK Pandey,B Kumar,SP Jackson,2,0,53
+2,6.3,Sunrisers Hyderabad,MK Pandey,B Kumar,SP Jackson,2,0,55
+2,6.4,Sunrisers Hyderabad,MK Pandey,B Kumar,SP Jackson,1,0,56
+2,6.5,Sunrisers Hyderabad,SP Jackson,B Kumar,MK Pandey,0,0,56
+2,6.6,Sunrisers Hyderabad,SP Jackson,B Kumar,MK Pandey,2,0,58
+2,7.1,Sunrisers Hyderabad,MK Pandey,Mohammed Siraj,SP Jackson,1,0,59
+2,7.2,Sunrisers Hyderabad,SP Jackson,Mohammed Siraj,MK Pandey,1,0,60
+2,7.3,Sunrisers Hyderabad,MK Pandey,Mohammed Siraj,SP Jackson,2,0,62
+2,7.4,Sunrisers Hyderabad,MK Pandey,Mohammed Siraj,SP Jackson,0,0,62
+2,7.5,Sunrisers Hyderabad,MK Pandey,Mohammed Siraj,SP Jackson,1,0,63
+2,7.6,Sunrisers Hyderabad,SP Jackson,Mohammed Siraj,MK Pandey,0,0,63
+2,8.1,Sunrisers Hyderabad,MK Pandey,S Kaul,SP Jackson,2,0,65
+2,8.2,Sunrisers Hyderabad,MK Pandey,S Kaul,SP Jackson,3,0,68
+2,8.3,Sunrisers Hyderabad,SP Jackson,S Kaul,MK Pandey,2,0,70
+2,8.4,Sunrisers Hyderabad,SP Jackson,S Kaul,MK Pandey,0,0,70
+2,8.5,Sunrisers Hyderabad,SP Jackson,S Kaul,MK Pandey,2,0,72
+2,8.6,Sunrisers Hyderabad,SP Jackson,S Kaul,MK Pandey,1,0,73
+2,9.1,Sunrisers Hyderabad,MK Pandey,MC Henriques,SP Jackson,2,0,75
+2,9.2,Sunrisers Hyderabad,MK Pandey,MC Henriques,SP Jackson,2,0,77
+2,9.3,Sunrisers Hyderabad,MK Pandey,MC Henriques,SP Jackson,3,0,80
+2,9.4,Sunrisers Hyderabad,SP Jackson,MC Henriques,MK Pandey,0,0,80
+2,9.5,Sunrisers Hyderabad,SP Jackson,MC Henriques,MK Pandey,0,0,80
+2,9.6,Sunrisers Hyderabad,SP Jackson,MC Henriques,MK Pandey,0,0,80
+2,10.1,Sunrisers Hyderabad,MK Pandey,Rashid Khan,SP Jackson,4,0,84
+2,10.2,Sunrisers Hyderabad,MK Pandey,Rashid Khan,SP Jackson,1,0,85
+2,10.3,Sunrisers Hyderabad,SP Jackson,Rashid Khan,MK Pandey,1,0,86
+2,10.4,Sunrisers Hyderabad,MK Pandey,Rashid Khan,SP Jackson,2,0,88
+2,10.5,Sunrisers Hyderabad,MK Pandey,Rashid Khan,SP Jackson,2,0,90
+2,10.6,Sunrisers Hyderabad,MK Pandey,Rashid Khan,SP Jackson,0,1,90
+2,11.1,Sunrisers Hyderabad,C de Grandhomme,Bipul Sharma,SP Jackson,1,0,91
+2,11.2,Sunrisers Hyderabad,SP Jackson,Bipul Sharma,C de Grandhomme,1,0,92
+2,11.3,Sunrisers Hyderabad,C de Grandhomme,Bipul Sharma,SP Jackson,1,0,93
+2,11.4,Sunrisers Hyderabad,SP Jackson,Bipul Sharma,C de Grandhomme,2,0,95
+2,11.5,Sunrisers Hyderabad,SP Jackson,Bipul Sharma,C de Grandhomme,4,0,99
+2,11.6,Sunrisers Hyderabad,SP Jackson,Bipul Sharma,C de Grandhomme,1,0,100
+2,12.1,Sunrisers Hyderabad,C de Grandhomme,PJ Sangwan,SP Jackson,0,0,100
+2,12.2,Sunrisers Hyderabad,C de Grandhomme,PJ Sangwan,SP Jackson,4,0,104
+2,12.3,Sunrisers Hyderabad,C de Grandhomme,PJ Sangwan,SP Jackson,1,0,105
+2,12.4,Sunrisers Hyderabad,SP Jackson,PJ Sangwan,C de Grandhomme,2,0,107
+2,12.5,Sunrisers Hyderabad,SP Jackson,PJ Sangwan,C de Grandhomme,1,0,108
+2,12.6,Sunrisers Hyderabad,C de Grandhomme,PJ Sangwan,SP Jackson,2,0,110
+2,13.1,Sunrisers Hyderabad,SP Jackson,Basil Thampi,C de Grandhomme,1,0,111
+2,13.2,Sunrisers Hyderabad,C de Grandhomme,Basil Thampi,SP Jackson,1,0,112
+2,13.3,Sunrisers Hyderabad,SP Jackson,Basil Thampi,C de Grandhomme,2,0,114
+2,13.4,Sunrisers Hyderabad,SP Jackson,Basil Thampi,C de Grandhomme,1,0,115
+2,13.5,Sunrisers Hyderabad,C de Grandhomme,Basil Thampi,SP Jackson,1,0,116
+2,13.6,Sunrisers Hyderabad,SP Jackson,Basil Thampi,C de Grandhomme,0,0,116
+2,14.1,Sunrisers Hyderabad,C de Grandhomme,JP Faulkner,SP Jackson,2,0,118
+2,14.2,Sunrisers Hyderabad,C de Grandhomme,JP Faulkner,SP Jackson,1,0,119
+2,14.3,Sunrisers Hyderabad,SP Jackson,JP Faulkner,C de Grandhomme,4,0,123
+2,14.4,Sunrisers Hyderabad,SP Jackson,JP Faulkner,C de Grandhomme,0,0,123
+2,14.5,Sunrisers Hyderabad,SP Jackson,JP Faulkner,C de Grandhomme,2,0,125
+2,14.6,Sunrisers Hyderabad,SP Jackson,JP Faulkner,C de Grandhomme,4,0,129
+2,15.1,Sunrisers Hyderabad,C de Grandhomme,Ankit Soni,SP Jackson,1,0,130
+2,15.2,Sunrisers Hyderabad,SP Jackson,Ankit Soni,C de Grandhomme,4,0,134
+2,15.3,Sunrisers Hyderabad,SP Jackson,Ankit Soni,C de Grandhomme,2,0,136
+2,15.4,Sunrisers Hyderabad,SP Jackson,Ankit Soni,C de Grandhomme,2,0,138
+2,15.5,Sunrisers Hyderabad,SP Jackson,Ankit Soni,C de Grandhomme,0,0,138
+2,15.6,Sunrisers Hyderabad,SP Jackson,Ankit Soni,C de Grandhomme,0,1,138
+2,16.1,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,1,0,139
+2,16.2,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,1,0,140
+2,16.3,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,2,0,142
+2,16.4,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,2,0,144
+2,16.5,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,0,1,144
+2,16.6,Sunrisers Hyderabad,C de Grandhomme,RA Jadeja,C de Grandhomme,0,1,144
+2,17.1,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,2,0,146
+2,17.2,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,1,0,147
+2,17.3,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,1,0,148
+2,17.4,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,1,0,149
+2,17.5,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,0,1,149
+2,17.6,Sunrisers Hyderabad,C de Grandhomme,DR Smith,C de Grandhomme,0,1,149
+2,18.1,Sunrisers Hyderabad,C de Grandhomme,IK Pathan,C de Grandhomme,1,0,150
