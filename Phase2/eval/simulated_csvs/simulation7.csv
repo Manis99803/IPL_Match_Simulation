@@ -1,241 +1,230 @@
 Innings,Over,Teamname,Batsman,Bowler,Non-striker,Runs,Wicket,Total
-1,0.1,Royal Challengers Bangalore,K Rabada,B Kumar,A Mishra,2,0,2
-1,0.2,Royal Challengers Bangalore,K Rabada,B Kumar,A Mishra,1,0,3
-1,0.3,Royal Challengers Bangalore,A Mishra,B Kumar,K Rabada,1,0,4
-1,0.4,Royal Challengers Bangalore,K Rabada,B Kumar,A Mishra,2,0,6
-1,0.5,Royal Challengers Bangalore,K Rabada,B Kumar,A Mishra,1,0,7
-1,0.6,Royal Challengers Bangalore,A Mishra,B Kumar,K Rabada,1,0,8
-1,1.1,Royal Challengers Bangalore,K Rabada,Mohammad Nabi,A Mishra,1,0,9
-1,1.2,Royal Challengers Bangalore,A Mishra,Mohammad Nabi,K Rabada,2,0,11
-1,1.3,Royal Challengers Bangalore,A Mishra,Mohammad Nabi,K Rabada,4,0,15
-1,1.4,Royal Challengers Bangalore,A Mishra,Mohammad Nabi,K Rabada,1,0,16
-1,1.5,Royal Challengers Bangalore,K Rabada,Mohammad Nabi,A Mishra,2,0,18
-1,1.6,Royal Challengers Bangalore,K Rabada,Mohammad Nabi,A Mishra,1,0,19
-1,2.1,Royal Challengers Bangalore,A Mishra,Mohammed Siraj,K Rabada,2,0,21
-1,2.2,Royal Challengers Bangalore,A Mishra,Mohammed Siraj,K Rabada,1,0,22
-1,2.3,Royal Challengers Bangalore,K Rabada,Mohammed Siraj,A Mishra,1,0,23
-1,2.4,Royal Challengers Bangalore,A Mishra,Mohammed Siraj,K Rabada,1,0,24
-1,2.5,Royal Challengers Bangalore,K Rabada,Mohammed Siraj,A Mishra,1,0,25
-1,2.6,Royal Challengers Bangalore,A Mishra,Mohammed Siraj,K Rabada,1,0,26
-1,3.1,Royal Challengers Bangalore,K Rabada,S Kaul,A Mishra,1,0,27
-1,3.2,Royal Challengers Bangalore,A Mishra,S Kaul,K Rabada,0,0,27
-1,3.3,Royal Challengers Bangalore,A Mishra,S Kaul,K Rabada,1,0,28
-1,3.4,Royal Challengers Bangalore,K Rabada,S Kaul,A Mishra,1,0,29
-1,3.5,Royal Challengers Bangalore,A Mishra,S Kaul,K Rabada,2,0,31
-1,3.6,Royal Challengers Bangalore,A Mishra,S Kaul,K Rabada,4,0,35
-1,4.1,Royal Challengers Bangalore,K Rabada,Rashid Khan,A Mishra,2,0,37
-1,4.2,Royal Challengers Bangalore,K Rabada,Rashid Khan,A Mishra,2,0,39
-1,4.3,Royal Challengers Bangalore,K Rabada,Rashid Khan,A Mishra,2,0,41
-1,4.4,Royal Challengers Bangalore,K Rabada,Rashid Khan,A Mishra,1,0,42
-1,4.5,Royal Challengers Bangalore,A Mishra,Rashid Khan,K Rabada,2,0,44
-1,4.6,Royal Challengers Bangalore,A Mishra,Rashid Khan,K Rabada,1,0,45
-1,5.1,Royal Challengers Bangalore,K Rabada,MC Henriques,A Mishra,2,0,47
-1,5.2,Royal Challengers Bangalore,K Rabada,MC Henriques,A Mishra,2,0,49
-1,5.3,Royal Challengers Bangalore,K Rabada,MC Henriques,A Mishra,0,0,49
-1,5.4,Royal Challengers Bangalore,K Rabada,MC Henriques,A Mishra,1,0,50
-1,5.5,Royal Challengers Bangalore,A Mishra,MC Henriques,K Rabada,2,0,52
-1,5.6,Royal Challengers Bangalore,A Mishra,MC Henriques,K Rabada,0,0,52
-1,6.1,Royal Challengers Bangalore,K Rabada,NM Coulter-Nile,A Mishra,3,0,55
-1,6.2,Royal Challengers Bangalore,A Mishra,NM Coulter-Nile,K Rabada,2,0,57
-1,6.3,Royal Challengers Bangalore,A Mishra,NM Coulter-Nile,K Rabada,2,0,59
-1,6.4,Royal Challengers Bangalore,A Mishra,NM Coulter-Nile,K Rabada,2,0,61
-1,6.5,Royal Challengers Bangalore,A Mishra,NM Coulter-Nile,K Rabada,0,0,61
-1,6.6,Royal Challengers Bangalore,A Mishra,NM Coulter-Nile,K Rabada,0,1,61
-1,7.1,Royal Challengers Bangalore,Mohammed Shami,UT Yadav,K Rabada,0,0,61
-1,7.2,Royal Challengers Bangalore,Mohammed Shami,UT Yadav,K Rabada,2,0,63
-1,7.3,Royal Challengers Bangalore,Mohammed Shami,UT Yadav,K Rabada,2,0,65
-1,7.4,Royal Challengers Bangalore,Mohammed Shami,UT Yadav,K Rabada,2,0,67
-1,7.5,Royal Challengers Bangalore,Mohammed Shami,UT Yadav,K Rabada,0,1,67
-1,7.6,Royal Challengers Bangalore,S Nadeem,UT Yadav,K Rabada,1,0,68
-1,8.1,Royal Challengers Bangalore,K Rabada,CR Woakes,S Nadeem,0,0,68
-1,8.2,Royal Challengers Bangalore,K Rabada,CR Woakes,S Nadeem,4,0,72
-1,8.3,Royal Challengers Bangalore,K Rabada,CR Woakes,S Nadeem,0,0,72
-1,8.4,Royal Challengers Bangalore,K Rabada,CR Woakes,S Nadeem,1,0,73
-1,8.5,Royal Challengers Bangalore,S Nadeem,CR Woakes,K Rabada,0,0,73
-1,8.6,Royal Challengers Bangalore,S Nadeem,CR Woakes,K Rabada,1,0,74
-1,9.1,Royal Challengers Bangalore,K Rabada,YK Pathan,S Nadeem,0,0,74
-1,9.2,Royal Challengers Bangalore,K Rabada,YK Pathan,S Nadeem,2,0,76
-1,9.3,Royal Challengers Bangalore,K Rabada,YK Pathan,S Nadeem,0,0,76
-1,9.4,Royal Challengers Bangalore,K Rabada,YK Pathan,S Nadeem,2,0,78
-1,9.5,Royal Challengers Bangalore,K Rabada,YK Pathan,S Nadeem,0,1,78
-1,9.6,Royal Challengers Bangalore,CH Gayle,YK Pathan,S Nadeem,2,0,80
-1,10.1,Royal Challengers Bangalore,S Nadeem,SP Narine,CH Gayle,1,0,81
-1,10.2,Royal Challengers Bangalore,CH Gayle,SP Narine,S Nadeem,2,0,83
-1,10.3,Royal Challengers Bangalore,CH Gayle,SP Narine,S Nadeem,1,0,84
-1,10.4,Royal Challengers Bangalore,S Nadeem,SP Narine,CH Gayle,1,0,85
-1,10.5,Royal Challengers Bangalore,CH Gayle,SP Narine,S Nadeem,1,0,86
-1,10.6,Royal Challengers Bangalore,S Nadeem,SP Narine,CH Gayle,0,0,86
-1,11.1,Royal Challengers Bangalore,CH Gayle,Kuldeep Yadav,S Nadeem,0,0,86
-1,11.2,Royal Challengers Bangalore,CH Gayle,Kuldeep Yadav,S Nadeem,4,0,90
-1,11.3,Royal Challengers Bangalore,CH Gayle,Kuldeep Yadav,S Nadeem,2,0,92
-1,11.4,Royal Challengers Bangalore,CH Gayle,Kuldeep Yadav,S Nadeem,0,0,92
-1,11.5,Royal Challengers Bangalore,CH Gayle,Kuldeep Yadav,S Nadeem,0,1,92
-1,11.6,Royal Challengers Bangalore,V Kohli,Kuldeep Yadav,S Nadeem,2,0,94
-1,12.1,Royal Challengers Bangalore,S Nadeem,JD Unadkat,V Kohli,1,0,95
-1,12.2,Royal Challengers Bangalore,V Kohli,JD Unadkat,S Nadeem,0,0,95
-1,12.3,Royal Challengers Bangalore,V Kohli,JD Unadkat,S Nadeem,0,0,95
-1,12.4,Royal Challengers Bangalore,V Kohli,JD Unadkat,S Nadeem,2,0,97
-1,12.5,Royal Challengers Bangalore,V Kohli,JD Unadkat,S Nadeem,0,0,97
-1,12.6,Royal Challengers Bangalore,V Kohli,JD Unadkat,S Nadeem,0,1,97
-1,13.1,Royal Challengers Bangalore,Mandeep Singh,Washington Sundar,S Nadeem,2,0,99
-1,13.2,Royal Challengers Bangalore,Mandeep Singh,Washington Sundar,S Nadeem,2,0,101
-1,13.3,Royal Challengers Bangalore,Mandeep Singh,Washington Sundar,S Nadeem,1,0,102
-1,13.4,Royal Challengers Bangalore,S Nadeem,Washington Sundar,Mandeep Singh,1,0,103
-1,13.5,Royal Challengers Bangalore,Mandeep Singh,Washington Sundar,S Nadeem,1,0,104
-1,13.6,Royal Challengers Bangalore,S Nadeem,Washington Sundar,Mandeep Singh,2,0,106
-1,14.1,Royal Challengers Bangalore,Mandeep Singh,BA Stokes,S Nadeem,2,0,108
-1,14.2,Royal Challengers Bangalore,Mandeep Singh,BA Stokes,S Nadeem,1,0,109
-1,14.3,Royal Challengers Bangalore,S Nadeem,BA Stokes,Mandeep Singh,1,0,110
-1,14.4,Royal Challengers Bangalore,Mandeep Singh,BA Stokes,S Nadeem,1,0,111
-1,14.5,Royal Challengers Bangalore,S Nadeem,BA Stokes,Mandeep Singh,1,0,112
-1,14.6,Royal Challengers Bangalore,Mandeep Singh,BA Stokes,S Nadeem,1,0,113
-1,15.1,Royal Challengers Bangalore,S Nadeem,Imran Tahir,Mandeep Singh,1,0,114
-1,15.2,Royal Challengers Bangalore,Mandeep Singh,Imran Tahir,S Nadeem,2,0,116
-1,15.3,Royal Challengers Bangalore,Mandeep Singh,Imran Tahir,S Nadeem,4,0,120
-1,15.4,Royal Challengers Bangalore,Mandeep Singh,Imran Tahir,S Nadeem,2,0,122
-1,15.5,Royal Challengers Bangalore,Mandeep Singh,Imran Tahir,S Nadeem,2,0,124
-1,15.6,Royal Challengers Bangalore,Mandeep Singh,Imran Tahir,S Nadeem,0,1,124
-1,16.1,Royal Challengers Bangalore,AB de Villiers,SN Thakur,S Nadeem,4,0,128
-1,16.2,Royal Challengers Bangalore,AB de Villiers,SN Thakur,S Nadeem,2,0,130
-1,16.3,Royal Challengers Bangalore,AB de Villiers,SN Thakur,S Nadeem,2,0,132
-1,16.4,Royal Challengers Bangalore,AB de Villiers,SN Thakur,S Nadeem,0,0,132
-1,16.5,Royal Challengers Bangalore,AB de Villiers,SN Thakur,S Nadeem,0,1,132
-1,16.6,Royal Challengers Bangalore,TM Head,SN Thakur,S Nadeem,4,0,136
-1,17.1,Royal Challengers Bangalore,S Nadeem,DT Christian,TM Head,1,0,137
-1,17.2,Royal Challengers Bangalore,TM Head,DT Christian,S Nadeem,1,0,138
-1,17.3,Royal Challengers Bangalore,S Nadeem,DT Christian,TM Head,1,0,139
-1,17.4,Royal Challengers Bangalore,TM Head,DT Christian,S Nadeem,2,0,141
-1,17.5,Royal Challengers Bangalore,TM Head,DT Christian,S Nadeem,0,0,141
-1,17.6,Royal Challengers Bangalore,TM Head,DT Christian,S Nadeem,2,0,143
-1,18.1,Royal Challengers Bangalore,S Nadeem,MJ McClenaghan,TM Head,1,0,144
-1,18.2,Royal Challengers Bangalore,TM Head,MJ McClenaghan,S Nadeem,2,0,146
-1,18.3,Royal Challengers Bangalore,TM Head,MJ McClenaghan,S Nadeem,0,0,146
-1,18.4,Royal Challengers Bangalore,TM Head,MJ McClenaghan,S Nadeem,0,0,146
-1,18.5,Royal Challengers Bangalore,TM Head,MJ McClenaghan,S Nadeem,2,0,148
-1,18.6,Royal Challengers Bangalore,TM Head,MJ McClenaghan,S Nadeem,0,0,148
-1,19.1,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,150
-1,19.2,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,152
-1,19.3,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,154
-1,19.4,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,156
-1,19.5,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,158
-1,19.6,Royal Challengers Bangalore,S Nadeem,SL Malinga,TM Head,2,0,160
-2,0.1,Kolkata Knight Riders,CR Woakes,Harbhajan Singh,YK Pathan,1,0,1
-2,0.2,Kolkata Knight Riders,YK Pathan,Harbhajan Singh,CR Woakes,1,0,2
-2,0.3,Kolkata Knight Riders,CR Woakes,Harbhajan Singh,YK Pathan,2,0,4
-2,0.4,Kolkata Knight Riders,CR Woakes,Harbhajan Singh,YK Pathan,1,0,5
-2,0.5,Kolkata Knight Riders,YK Pathan,Harbhajan Singh,CR Woakes,2,0,7
-2,0.6,Kolkata Knight Riders,YK Pathan,Harbhajan Singh,CR Woakes,0,0,7
-2,1.1,Kolkata Knight Riders,CR Woakes,MJ McClenaghan,YK Pathan,2,0,9
-2,1.2,Kolkata Knight Riders,CR Woakes,MJ McClenaghan,YK Pathan,2,0,11
-2,1.3,Kolkata Knight Riders,CR Woakes,MJ McClenaghan,YK Pathan,1,0,12
-2,1.4,Kolkata Knight Riders,YK Pathan,MJ McClenaghan,CR Woakes,0,0,12
-2,1.5,Kolkata Knight Riders,YK Pathan,MJ McClenaghan,CR Woakes,2,0,14
-2,1.6,Kolkata Knight Riders,YK Pathan,MJ McClenaghan,CR Woakes,2,0,16
-2,2.1,Kolkata Knight Riders,CR Woakes,SL Malinga,YK Pathan,0,0,16
-2,2.2,Kolkata Knight Riders,CR Woakes,SL Malinga,YK Pathan,2,0,18
-2,2.3,Kolkata Knight Riders,CR Woakes,SL Malinga,YK Pathan,1,0,19
-2,2.4,Kolkata Knight Riders,YK Pathan,SL Malinga,CR Woakes,2,0,21
-2,2.5,Kolkata Knight Riders,YK Pathan,SL Malinga,CR Woakes,2,0,23
-2,2.6,Kolkata Knight Riders,YK Pathan,SL Malinga,CR Woakes,2,0,25
-2,3.1,Kolkata Knight Riders,CR Woakes,JJ Bumrah,YK Pathan,1,0,26
-2,3.2,Kolkata Knight Riders,YK Pathan,JJ Bumrah,CR Woakes,2,0,28
-2,3.3,Kolkata Knight Riders,YK Pathan,JJ Bumrah,CR Woakes,0,0,28
-2,3.4,Kolkata Knight Riders,YK Pathan,JJ Bumrah,CR Woakes,2,0,30
-2,3.5,Kolkata Knight Riders,YK Pathan,JJ Bumrah,CR Woakes,2,0,32
-2,3.6,Kolkata Knight Riders,YK Pathan,JJ Bumrah,CR Woakes,1,0,33
-2,4.1,Kolkata Knight Riders,CR Woakes,KV Sharma,YK Pathan,2,0,35
-2,4.2,Kolkata Knight Riders,CR Woakes,KV Sharma,YK Pathan,1,0,36
-2,4.3,Kolkata Knight Riders,YK Pathan,KV Sharma,CR Woakes,0,0,36
-2,4.4,Kolkata Knight Riders,YK Pathan,KV Sharma,CR Woakes,1,0,37
-2,4.5,Kolkata Knight Riders,CR Woakes,KV Sharma,YK Pathan,1,0,38
-2,4.6,Kolkata Knight Riders,YK Pathan,KV Sharma,CR Woakes,0,0,38
-2,5.1,Kolkata Knight Riders,CR Woakes,HH Pandya,YK Pathan,1,0,39
-2,5.2,Kolkata Knight Riders,YK Pathan,HH Pandya,CR Woakes,0,0,39
-2,5.3,Kolkata Knight Riders,YK Pathan,HH Pandya,CR Woakes,2,0,41
-2,5.4,Kolkata Knight Riders,YK Pathan,HH Pandya,CR Woakes,2,0,43
-2,5.5,Kolkata Knight Riders,YK Pathan,HH Pandya,CR Woakes,4,0,47
-2,5.6,Kolkata Knight Riders,YK Pathan,HH Pandya,CR Woakes,0,0,47
-2,6.1,Kolkata Knight Riders,CR Woakes,B Kumar,YK Pathan,2,0,49
-2,6.2,Kolkata Knight Riders,CR Woakes,B Kumar,YK Pathan,1,0,50
-2,6.3,Kolkata Knight Riders,YK Pathan,B Kumar,CR Woakes,0,0,50
-2,6.4,Kolkata Knight Riders,YK Pathan,B Kumar,CR Woakes,4,0,54
-2,6.5,Kolkata Knight Riders,YK Pathan,B Kumar,CR Woakes,1,0,55
-2,6.6,Kolkata Knight Riders,CR Woakes,B Kumar,YK Pathan,1,0,56
-2,7.1,Kolkata Knight Riders,YK Pathan,Mohammed Siraj,CR Woakes,2,0,58
-2,7.2,Kolkata Knight Riders,YK Pathan,Mohammed Siraj,CR Woakes,2,0,60
-2,7.3,Kolkata Knight Riders,YK Pathan,Mohammed Siraj,CR Woakes,2,0,62
-2,7.4,Kolkata Knight Riders,YK Pathan,Mohammed Siraj,CR Woakes,1,0,63
-2,7.5,Kolkata Knight Riders,CR Woakes,Mohammed Siraj,YK Pathan,2,0,65
-2,7.6,Kolkata Knight Riders,CR Woakes,Mohammed Siraj,YK Pathan,4,0,69
-2,8.1,Kolkata Knight Riders,YK Pathan,S Kaul,CR Woakes,1,0,70
-2,8.2,Kolkata Knight Riders,CR Woakes,S Kaul,YK Pathan,1,0,71
-2,8.3,Kolkata Knight Riders,YK Pathan,S Kaul,CR Woakes,0,0,71
-2,8.4,Kolkata Knight Riders,YK Pathan,S Kaul,CR Woakes,0,0,71
-2,8.5,Kolkata Knight Riders,YK Pathan,S Kaul,CR Woakes,0,0,71
-2,8.6,Kolkata Knight Riders,YK Pathan,S Kaul,CR Woakes,0,1,71
-2,9.1,Kolkata Knight Riders,SP Narine,MC Henriques,CR Woakes,0,0,71
-2,9.2,Kolkata Knight Riders,SP Narine,MC Henriques,CR Woakes,4,0,75
-2,9.3,Kolkata Knight Riders,SP Narine,MC Henriques,CR Woakes,1,0,76
-2,9.4,Kolkata Knight Riders,CR Woakes,MC Henriques,SP Narine,2,0,78
-2,9.5,Kolkata Knight Riders,CR Woakes,MC Henriques,SP Narine,1,0,79
-2,9.6,Kolkata Knight Riders,SP Narine,MC Henriques,CR Woakes,4,0,83
-2,10.1,Kolkata Knight Riders,CR Woakes,Rashid Khan,SP Narine,2,0,85
-2,10.2,Kolkata Knight Riders,CR Woakes,Rashid Khan,SP Narine,2,0,87
-2,10.3,Kolkata Knight Riders,CR Woakes,Rashid Khan,SP Narine,2,0,89
-2,10.4,Kolkata Knight Riders,CR Woakes,Rashid Khan,SP Narine,1,0,90
-2,10.5,Kolkata Knight Riders,SP Narine,Rashid Khan,CR Woakes,4,0,94
-2,10.6,Kolkata Knight Riders,SP Narine,Rashid Khan,CR Woakes,1,0,95
-2,11.1,Kolkata Knight Riders,CR Woakes,Bipul Sharma,SP Narine,1,0,96
-2,11.2,Kolkata Knight Riders,SP Narine,Bipul Sharma,CR Woakes,2,0,98
-2,11.3,Kolkata Knight Riders,SP Narine,Bipul Sharma,CR Woakes,2,0,100
-2,11.4,Kolkata Knight Riders,SP Narine,Bipul Sharma,CR Woakes,1,0,101
-2,11.5,Kolkata Knight Riders,CR Woakes,Bipul Sharma,SP Narine,2,0,103
-2,11.6,Kolkata Knight Riders,CR Woakes,Bipul Sharma,SP Narine,2,0,105
-2,12.1,Kolkata Knight Riders,SP Narine,PJ Sangwan,CR Woakes,1,0,106
-2,12.2,Kolkata Knight Riders,CR Woakes,PJ Sangwan,SP Narine,0,0,106
-2,12.3,Kolkata Knight Riders,CR Woakes,PJ Sangwan,SP Narine,1,0,107
-2,12.4,Kolkata Knight Riders,SP Narine,PJ Sangwan,CR Woakes,1,0,108
-2,12.5,Kolkata Knight Riders,CR Woakes,PJ Sangwan,SP Narine,1,0,109
-2,12.6,Kolkata Knight Riders,SP Narine,PJ Sangwan,CR Woakes,4,0,113
-2,13.1,Kolkata Knight Riders,CR Woakes,Basil Thampi,SP Narine,1,0,114
-2,13.2,Kolkata Knight Riders,SP Narine,Basil Thampi,CR Woakes,2,0,116
-2,13.3,Kolkata Knight Riders,SP Narine,Basil Thampi,CR Woakes,2,0,118
-2,13.4,Kolkata Knight Riders,SP Narine,Basil Thampi,CR Woakes,2,0,120
-2,13.5,Kolkata Knight Riders,SP Narine,Basil Thampi,CR Woakes,1,0,121
-2,13.6,Kolkata Knight Riders,CR Woakes,Basil Thampi,SP Narine,1,0,122
-2,14.1,Kolkata Knight Riders,SP Narine,JP Faulkner,CR Woakes,0,0,122
-2,14.2,Kolkata Knight Riders,SP Narine,JP Faulkner,CR Woakes,1,0,123
-2,14.3,Kolkata Knight Riders,CR Woakes,JP Faulkner,SP Narine,2,0,125
-2,14.4,Kolkata Knight Riders,CR Woakes,JP Faulkner,SP Narine,2,0,127
-2,14.5,Kolkata Knight Riders,CR Woakes,JP Faulkner,SP Narine,1,0,128
-2,14.6,Kolkata Knight Riders,SP Narine,JP Faulkner,CR Woakes,2,0,130
-2,15.1,Kolkata Knight Riders,CR Woakes,Ankit Soni,SP Narine,2,0,132
-2,15.2,Kolkata Knight Riders,CR Woakes,Ankit Soni,SP Narine,2,0,134
-2,15.3,Kolkata Knight Riders,CR Woakes,Ankit Soni,SP Narine,1,0,135
-2,15.4,Kolkata Knight Riders,SP Narine,Ankit Soni,CR Woakes,4,0,139
-2,15.5,Kolkata Knight Riders,SP Narine,Ankit Soni,CR Woakes,1,0,140
-2,15.6,Kolkata Knight Riders,CR Woakes,Ankit Soni,SP Narine,0,0,140
-2,16.1,Kolkata Knight Riders,SP Narine,RA Jadeja,CR Woakes,1,0,141
-2,16.2,Kolkata Knight Riders,CR Woakes,RA Jadeja,SP Narine,2,0,143
-2,16.3,Kolkata Knight Riders,CR Woakes,RA Jadeja,SP Narine,2,0,145
-2,16.4,Kolkata Knight Riders,CR Woakes,RA Jadeja,SP Narine,1,0,146
-2,16.5,Kolkata Knight Riders,SP Narine,RA Jadeja,CR Woakes,1,0,147
-2,16.6,Kolkata Knight Riders,CR Woakes,RA Jadeja,SP Narine,0,0,147
-2,17.1,Kolkata Knight Riders,SP Narine,DR Smith,CR Woakes,2,0,149
-2,17.2,Kolkata Knight Riders,SP Narine,DR Smith,CR Woakes,0,0,149
-2,17.3,Kolkata Knight Riders,SP Narine,DR Smith,CR Woakes,2,0,151
-2,17.4,Kolkata Knight Riders,SP Narine,DR Smith,CR Woakes,1,0,152
-2,17.5,Kolkata Knight Riders,CR Woakes,DR Smith,SP Narine,1,0,153
-2,17.6,Kolkata Knight Riders,SP Narine,DR Smith,CR Woakes,0,1,153
-2,18.1,Kolkata Knight Riders,SP Narine,IK Pathan,CR Woakes,0,0,153
-2,18.2,Kolkata Knight Riders,SP Narine,IK Pathan,CR Woakes,2,0,155
-2,18.3,Kolkata Knight Riders,SP Narine,IK Pathan,CR Woakes,1,0,156
-2,18.4,Kolkata Knight Riders,CR Woakes,IK Pathan,SP Narine,0,0,156
-2,18.5,Kolkata Knight Riders,CR Woakes,IK Pathan,SP Narine,1,0,157
-2,18.6,Kolkata Knight Riders,SP Narine,IK Pathan,CR Woakes,1,0,158
-2,19.1,Kolkata Knight Riders,CR Woakes,SK Raina,SP Narine,0,0,158
-2,19.2,Kolkata Knight Riders,CR Woakes,SK Raina,SP Narine,0,0,158
-2,19.3,Kolkata Knight Riders,CR Woakes,SK Raina,SP Narine,2,0,160
-2,19.4,Kolkata Knight Riders,CR Woakes,SK Raina,SP Narine,0,0,160
-2,19.5,Kolkata Knight Riders,CR Woakes,SK Raina,SP Narine,0,1,160
-2,19.6,Kolkata Knight Riders,SP Narine,SK Raina,SP Narine,1,0,161
+1,0.1,Rising Pune Supergiant,CJ Anderson,NM Coulter-Nile,CH Morris,6,0,6
+1,0.2,Rising Pune Supergiant,CJ Anderson,NM Coulter-Nile,CH Morris,0,0,6
+1,0.3,Rising Pune Supergiant,CJ Anderson,NM Coulter-Nile,CH Morris,2,0,8
+1,0.4,Rising Pune Supergiant,CJ Anderson,NM Coulter-Nile,CH Morris,0,0,8
+1,0.5,Rising Pune Supergiant,CJ Anderson,NM Coulter-Nile,CH Morris,0,1,8
+1,0.6,Rising Pune Supergiant,K Rabada,NM Coulter-Nile,CH Morris,1,0,9
+1,1.1,Rising Pune Supergiant,CH Morris,UT Yadav,K Rabada,0,0,9
+1,1.2,Rising Pune Supergiant,CH Morris,UT Yadav,K Rabada,0,0,9
+1,1.3,Rising Pune Supergiant,CH Morris,UT Yadav,K Rabada,0,0,9
+1,1.4,Rising Pune Supergiant,CH Morris,UT Yadav,K Rabada,0,0,9
+1,1.5,Rising Pune Supergiant,CH Morris,UT Yadav,K Rabada,1,0,10
+1,1.6,Rising Pune Supergiant,K Rabada,UT Yadav,CH Morris,6,0,16
+1,2.1,Rising Pune Supergiant,CH Morris,CR Woakes,K Rabada,0,0,16
+1,2.2,Rising Pune Supergiant,CH Morris,CR Woakes,K Rabada,3,0,19
+1,2.3,Rising Pune Supergiant,K Rabada,CR Woakes,CH Morris,1,0,20
+1,2.4,Rising Pune Supergiant,CH Morris,CR Woakes,K Rabada,0,0,20
+1,2.5,Rising Pune Supergiant,CH Morris,CR Woakes,K Rabada,1,0,21
+1,2.6,Rising Pune Supergiant,K Rabada,CR Woakes,CH Morris,0,0,21
+1,3.1,Rising Pune Supergiant,CH Morris,YK Pathan,K Rabada,1,0,22
+1,3.2,Rising Pune Supergiant,K Rabada,YK Pathan,CH Morris,1,0,23
+1,3.3,Rising Pune Supergiant,CH Morris,YK Pathan,K Rabada,1,0,24
+1,3.4,Rising Pune Supergiant,K Rabada,YK Pathan,CH Morris,0,0,24
+1,3.5,Rising Pune Supergiant,K Rabada,YK Pathan,CH Morris,1,0,25
+1,3.6,Rising Pune Supergiant,CH Morris,YK Pathan,K Rabada,2,0,27
+1,4.1,Rising Pune Supergiant,K Rabada,SP Narine,CH Morris,0,0,27
+1,4.2,Rising Pune Supergiant,K Rabada,SP Narine,CH Morris,1,0,28
+1,4.3,Rising Pune Supergiant,CH Morris,SP Narine,K Rabada,0,0,28
+1,4.4,Rising Pune Supergiant,CH Morris,SP Narine,K Rabada,2,0,30
+1,4.5,Rising Pune Supergiant,CH Morris,SP Narine,K Rabada,0,0,30
+1,4.6,Rising Pune Supergiant,CH Morris,SP Narine,K Rabada,1,0,31
+1,5.1,Rising Pune Supergiant,K Rabada,Kuldeep Yadav,CH Morris,1,0,32
+1,5.2,Rising Pune Supergiant,CH Morris,Kuldeep Yadav,K Rabada,0,0,32
+1,5.3,Rising Pune Supergiant,CH Morris,Kuldeep Yadav,K Rabada,1,0,33
+1,5.4,Rising Pune Supergiant,K Rabada,Kuldeep Yadav,CH Morris,1,0,34
+1,5.5,Rising Pune Supergiant,CH Morris,Kuldeep Yadav,K Rabada,1,0,35
+1,5.6,Rising Pune Supergiant,K Rabada,Kuldeep Yadav,CH Morris,4,0,39
+1,6.1,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,4,0,43
+1,6.2,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,0,0,43
+1,6.3,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,4,0,47
+1,6.4,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,4,0,51
+1,6.5,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,4,0,55
+1,6.6,Rising Pune Supergiant,CH Morris,MJ McClenaghan,K Rabada,0,0,55
+1,7.1,Rising Pune Supergiant,K Rabada,SL Malinga,CH Morris,0,0,55
+1,7.2,Rising Pune Supergiant,K Rabada,SL Malinga,CH Morris,1,0,56
+1,7.3,Rising Pune Supergiant,CH Morris,SL Malinga,K Rabada,0,1,56
+1,7.4,Rising Pune Supergiant,A Mishra,SL Malinga,K Rabada,0,0,56
+1,7.5,Rising Pune Supergiant,A Mishra,SL Malinga,K Rabada,1,0,57
+1,7.6,Rising Pune Supergiant,K Rabada,SL Malinga,A Mishra,0,0,57
+1,8.1,Rising Pune Supergiant,A Mishra,HH Pandya,K Rabada,0,0,57
+1,8.2,Rising Pune Supergiant,A Mishra,HH Pandya,K Rabada,0,0,57
+1,8.3,Rising Pune Supergiant,A Mishra,HH Pandya,K Rabada,0,0,57
+1,8.4,Rising Pune Supergiant,A Mishra,HH Pandya,K Rabada,0,0,57
+1,8.5,Rising Pune Supergiant,A Mishra,HH Pandya,K Rabada,0,1,57
+1,8.6,Rising Pune Supergiant,Mohammed Shami,HH Pandya,K Rabada,0,0,57
+1,9.1,Rising Pune Supergiant,K Rabada,KV Sharma,Mohammed Shami,0,0,57
+1,9.2,Rising Pune Supergiant,K Rabada,KV Sharma,Mohammed Shami,1,0,58
+1,9.3,Rising Pune Supergiant,Mohammed Shami,KV Sharma,K Rabada,6,0,64
+1,9.4,Rising Pune Supergiant,Mohammed Shami,KV Sharma,K Rabada,1,0,65
+1,9.5,Rising Pune Supergiant,K Rabada,KV Sharma,Mohammed Shami,0,0,65
+1,9.6,Rising Pune Supergiant,K Rabada,KV Sharma,Mohammed Shami,1,0,66
+1,10.1,Rising Pune Supergiant,Mohammed Shami,JJ Bumrah,K Rabada,0,0,66
+1,10.2,Rising Pune Supergiant,Mohammed Shami,JJ Bumrah,K Rabada,3,0,69
+1,10.3,Rising Pune Supergiant,K Rabada,JJ Bumrah,Mohammed Shami,2,0,71
+1,10.4,Rising Pune Supergiant,K Rabada,JJ Bumrah,Mohammed Shami,1,0,72
+1,10.5,Rising Pune Supergiant,Mohammed Shami,JJ Bumrah,K Rabada,0,0,72
+1,10.6,Rising Pune Supergiant,Mohammed Shami,JJ Bumrah,K Rabada,1,0,73
+1,11.1,Rising Pune Supergiant,K Rabada,KH Pandya,Mohammed Shami,0,0,73
+1,11.2,Rising Pune Supergiant,K Rabada,KH Pandya,Mohammed Shami,1,0,74
+1,11.3,Rising Pune Supergiant,Mohammed Shami,KH Pandya,K Rabada,0,0,74
+1,11.4,Rising Pune Supergiant,Mohammed Shami,KH Pandya,K Rabada,2,0,76
+1,11.5,Rising Pune Supergiant,Mohammed Shami,KH Pandya,K Rabada,0,0,76
+1,11.6,Rising Pune Supergiant,Mohammed Shami,KH Pandya,K Rabada,0,0,76
+1,12.1,Rising Pune Supergiant,K Rabada,AS Rajpoot,Mohammed Shami,1,0,77
+1,12.2,Rising Pune Supergiant,Mohammed Shami,AS Rajpoot,K Rabada,4,0,81
+1,12.3,Rising Pune Supergiant,Mohammed Shami,AS Rajpoot,K Rabada,2,0,83
+1,12.4,Rising Pune Supergiant,Mohammed Shami,AS Rajpoot,K Rabada,0,0,83
+1,12.5,Rising Pune Supergiant,Mohammed Shami,AS Rajpoot,K Rabada,0,0,83
+1,12.6,Rising Pune Supergiant,Mohammed Shami,AS Rajpoot,K Rabada,0,1,83
+1,13.1,Rising Pune Supergiant,S Nadeem,PP Chawla,K Rabada,0,0,83
+1,13.2,Rising Pune Supergiant,S Nadeem,PP Chawla,K Rabada,1,0,84
+1,13.3,Rising Pune Supergiant,K Rabada,PP Chawla,S Nadeem,1,0,85
+1,13.4,Rising Pune Supergiant,S Nadeem,PP Chawla,K Rabada,0,0,85
+1,13.5,Rising Pune Supergiant,S Nadeem,PP Chawla,K Rabada,0,0,85
+1,13.6,Rising Pune Supergiant,S Nadeem,PP Chawla,K Rabada,0,1,85
+1,14.1,Rising Pune Supergiant,Ishan Kishan,C de Grandhomme,K Rabada,6,0,91
+1,14.2,Rising Pune Supergiant,Ishan Kishan,C de Grandhomme,K Rabada,6,0,97
+1,14.3,Rising Pune Supergiant,Ishan Kishan,C de Grandhomme,K Rabada,3,0,100
+1,14.4,Rising Pune Supergiant,K Rabada,C de Grandhomme,Ishan Kishan,1,0,101
+1,14.5,Rising Pune Supergiant,Ishan Kishan,C de Grandhomme,K Rabada,4,0,105
+1,14.6,Rising Pune Supergiant,Ishan Kishan,C de Grandhomme,K Rabada,0,1,105
+1,15.1,Rising Pune Supergiant,BB McCullum,PJ Sangwan,K Rabada,1,0,106
+1,15.2,Rising Pune Supergiant,K Rabada,PJ Sangwan,BB McCullum,0,0,106
+1,15.3,Rising Pune Supergiant,K Rabada,PJ Sangwan,BB McCullum,0,0,106
+1,15.4,Rising Pune Supergiant,K Rabada,PJ Sangwan,BB McCullum,0,0,106
+1,15.5,Rising Pune Supergiant,K Rabada,PJ Sangwan,BB McCullum,2,0,108
+1,15.6,Rising Pune Supergiant,K Rabada,PJ Sangwan,BB McCullum,0,1,108
+1,16.1,Rising Pune Supergiant,SK Raina,DS Kulkarni,BB McCullum,0,1,108
+1,16.2,Rising Pune Supergiant,AJ Finch,DS Kulkarni,BB McCullum,0,0,108
+1,16.3,Rising Pune Supergiant,AJ Finch,DS Kulkarni,BB McCullum,0,0,108
+1,16.4,Rising Pune Supergiant,AJ Finch,DS Kulkarni,BB McCullum,0,0,108
+1,16.5,Rising Pune Supergiant,AJ Finch,DS Kulkarni,BB McCullum,0,0,108
+1,16.6,Rising Pune Supergiant,AJ Finch,DS Kulkarni,BB McCullum,0,0,108
+1,17.1,Rising Pune Supergiant,BB McCullum,Basil Thampi,AJ Finch,1,0,109
+1,17.2,Rising Pune Supergiant,AJ Finch,Basil Thampi,BB McCullum,0,0,109
+1,17.3,Rising Pune Supergiant,AJ Finch,Basil Thampi,BB McCullum,1,0,110
+1,17.4,Rising Pune Supergiant,BB McCullum,Basil Thampi,AJ Finch,0,0,110
+1,17.5,Rising Pune Supergiant,BB McCullum,Basil Thampi,AJ Finch,6,0,116
+1,17.6,Rising Pune Supergiant,BB McCullum,Basil Thampi,AJ Finch,4,0,120
+1,18.1,Rising Pune Supergiant,AJ Finch,JP Faulkner,BB McCullum,1,0,121
+1,18.2,Rising Pune Supergiant,BB McCullum,JP Faulkner,AJ Finch,0,0,121
+1,18.3,Rising Pune Supergiant,BB McCullum,JP Faulkner,AJ Finch,0,0,121
+1,18.4,Rising Pune Supergiant,BB McCullum,JP Faulkner,AJ Finch,0,0,121
+1,18.5,Rising Pune Supergiant,BB McCullum,JP Faulkner,AJ Finch,2,0,123
+1,18.6,Rising Pune Supergiant,BB McCullum,JP Faulkner,AJ Finch,0,0,123
+1,19.1,Rising Pune Supergiant,AJ Finch,RA Jadeja,BB McCullum,0,0,123
+1,19.2,Rising Pune Supergiant,AJ Finch,RA Jadeja,BB McCullum,1,0,124
+1,19.3,Rising Pune Supergiant,BB McCullum,RA Jadeja,AJ Finch,4,0,128
+1,19.4,Rising Pune Supergiant,BB McCullum,RA Jadeja,AJ Finch,4,0,132
+1,19.5,Rising Pune Supergiant,BB McCullum,RA Jadeja,AJ Finch,4,0,136
+1,19.6,Rising Pune Supergiant,BB McCullum,RA Jadeja,AJ Finch,4,0,140
+2,0.1,Gujarat Lions,CR Woakes,B Kumar,MJ Guptill,1,0,1
+2,0.2,Gujarat Lions,MJ Guptill,B Kumar,CR Woakes,0,0,1
+2,0.3,Gujarat Lions,MJ Guptill,B Kumar,CR Woakes,2,0,3
+2,0.4,Gujarat Lions,MJ Guptill,B Kumar,CR Woakes,0,0,3
+2,0.5,Gujarat Lions,MJ Guptill,B Kumar,CR Woakes,0,0,3
+2,0.6,Gujarat Lions,MJ Guptill,B Kumar,CR Woakes,0,0,3
+2,1.1,Gujarat Lions,CR Woakes,Mohammed Siraj,MJ Guptill,1,0,4
+2,1.2,Gujarat Lions,MJ Guptill,Mohammed Siraj,CR Woakes,1,0,5
+2,1.3,Gujarat Lions,CR Woakes,Mohammed Siraj,MJ Guptill,0,0,5
+2,1.4,Gujarat Lions,CR Woakes,Mohammed Siraj,MJ Guptill,4,0,9
+2,1.5,Gujarat Lions,CR Woakes,Mohammed Siraj,MJ Guptill,4,0,13
+2,1.6,Gujarat Lions,CR Woakes,Mohammed Siraj,MJ Guptill,0,1,13
+2,2.1,Gujarat Lions,HM Amla,S Kaul,MJ Guptill,4,0,17
+2,2.2,Gujarat Lions,HM Amla,S Kaul,MJ Guptill,2,0,19
+2,2.3,Gujarat Lions,HM Amla,S Kaul,MJ Guptill,1,0,20
+2,2.4,Gujarat Lions,MJ Guptill,S Kaul,HM Amla,0,0,20
+2,2.5,Gujarat Lions,MJ Guptill,S Kaul,HM Amla,1,0,21
+2,2.6,Gujarat Lions,HM Amla,S Kaul,MJ Guptill,1,0,22
+2,3.1,Gujarat Lions,MJ Guptill,MC Henriques,HM Amla,0,0,22
+2,3.2,Gujarat Lions,MJ Guptill,MC Henriques,HM Amla,1,0,23
+2,3.3,Gujarat Lions,HM Amla,MC Henriques,MJ Guptill,0,0,23
+2,3.4,Gujarat Lions,HM Amla,MC Henriques,MJ Guptill,6,0,29
+2,3.5,Gujarat Lions,HM Amla,MC Henriques,MJ Guptill,1,0,30
+2,3.6,Gujarat Lions,MJ Guptill,MC Henriques,HM Amla,4,0,34
+2,4.1,Gujarat Lions,HM Amla,Rashid Khan,MJ Guptill,0,0,34
+2,4.2,Gujarat Lions,HM Amla,Rashid Khan,MJ Guptill,0,0,34
+2,4.3,Gujarat Lions,HM Amla,Rashid Khan,MJ Guptill,0,0,34
+2,4.4,Gujarat Lions,HM Amla,Rashid Khan,MJ Guptill,0,0,34
+2,4.5,Gujarat Lions,HM Amla,Rashid Khan,MJ Guptill,0,1,34
+2,4.6,Gujarat Lions,AM Rahane,Rashid Khan,MJ Guptill,0,0,34
+2,5.1,Gujarat Lions,MJ Guptill,Bipul Sharma,AM Rahane,1,0,35
+2,5.2,Gujarat Lions,AM Rahane,Bipul Sharma,MJ Guptill,1,0,36
+2,5.3,Gujarat Lions,MJ Guptill,Bipul Sharma,AM Rahane,3,0,39
+2,5.4,Gujarat Lions,AM Rahane,Bipul Sharma,MJ Guptill,1,0,40
+2,5.5,Gujarat Lions,MJ Guptill,Bipul Sharma,AM Rahane,6,0,46
+2,5.6,Gujarat Lions,MJ Guptill,Bipul Sharma,AM Rahane,1,0,47
+2,6.1,Gujarat Lions,AM Rahane,A Choudhary,MJ Guptill,4,0,51
+2,6.2,Gujarat Lions,AM Rahane,A Choudhary,MJ Guptill,4,0,55
+2,6.3,Gujarat Lions,AM Rahane,A Choudhary,MJ Guptill,0,0,55
+2,6.4,Gujarat Lions,AM Rahane,A Choudhary,MJ Guptill,6,0,61
+2,6.5,Gujarat Lions,AM Rahane,A Choudhary,MJ Guptill,0,1,61
+2,6.6,Gujarat Lions,SPD Smith,A Choudhary,MJ Guptill,0,0,61
+2,7.1,Gujarat Lions,MJ Guptill,YS Chahal,SPD Smith,1,0,62
+2,7.2,Gujarat Lions,SPD Smith,YS Chahal,MJ Guptill,1,0,63
+2,7.3,Gujarat Lions,MJ Guptill,YS Chahal,SPD Smith,0,0,63
+2,7.4,Gujarat Lions,MJ Guptill,YS Chahal,SPD Smith,1,0,64
+2,7.5,Gujarat Lions,SPD Smith,YS Chahal,MJ Guptill,0,0,64
+2,7.6,Gujarat Lions,SPD Smith,YS Chahal,MJ Guptill,2,0,66
+2,8.1,Gujarat Lions,MJ Guptill,AF Milne,SPD Smith,4,0,70
+2,8.2,Gujarat Lions,MJ Guptill,AF Milne,SPD Smith,1,0,71
+2,8.3,Gujarat Lions,SPD Smith,AF Milne,MJ Guptill,1,0,72
+2,8.4,Gujarat Lions,MJ Guptill,AF Milne,SPD Smith,1,0,73
+2,8.5,Gujarat Lions,SPD Smith,AF Milne,MJ Guptill,1,0,74
+2,8.6,Gujarat Lions,MJ Guptill,AF Milne,SPD Smith,0,0,74
+2,9.1,Gujarat Lions,SPD Smith,S Aravind,MJ Guptill,0,0,74
+2,9.2,Gujarat Lions,SPD Smith,S Aravind,MJ Guptill,0,0,74
+2,9.3,Gujarat Lions,SPD Smith,S Aravind,MJ Guptill,1,0,75
+2,9.4,Gujarat Lions,MJ Guptill,S Aravind,SPD Smith,1,0,76
+2,9.5,Gujarat Lions,SPD Smith,S Aravind,MJ Guptill,0,0,76
+2,9.6,Gujarat Lions,SPD Smith,S Aravind,MJ Guptill,0,1,76
+2,10.1,Gujarat Lions,RA Tripathi,SR Watson,MJ Guptill,4,0,80
+2,10.2,Gujarat Lions,RA Tripathi,SR Watson,MJ Guptill,0,0,80
+2,10.3,Gujarat Lions,RA Tripathi,SR Watson,MJ Guptill,1,0,81
+2,10.4,Gujarat Lions,MJ Guptill,SR Watson,RA Tripathi,0,0,81
+2,10.5,Gujarat Lions,MJ Guptill,SR Watson,RA Tripathi,1,0,82
+2,10.6,Gujarat Lions,RA Tripathi,SR Watson,MJ Guptill,0,0,82
+2,11.1,Gujarat Lions,MJ Guptill,P Negi,RA Tripathi,0,0,82
+2,11.2,Gujarat Lions,MJ Guptill,P Negi,RA Tripathi,0,0,82
+2,11.3,Gujarat Lions,MJ Guptill,P Negi,RA Tripathi,1,0,83
+2,11.4,Gujarat Lions,RA Tripathi,P Negi,MJ Guptill,0,0,83
+2,11.5,Gujarat Lions,RA Tripathi,P Negi,MJ Guptill,0,0,83
+2,11.6,Gujarat Lions,RA Tripathi,P Negi,MJ Guptill,0,0,83
+2,12.1,Gujarat Lions,MJ Guptill,S Badree,RA Tripathi,0,0,83
+2,12.2,Gujarat Lions,MJ Guptill,S Badree,RA Tripathi,0,0,83
+2,12.3,Gujarat Lions,MJ Guptill,S Badree,RA Tripathi,0,0,83
+2,12.4,Gujarat Lions,MJ Guptill,S Badree,RA Tripathi,4,0,87
+2,12.5,Gujarat Lions,MJ Guptill,S Badree,RA Tripathi,0,1,87
+2,12.6,Gujarat Lions,MK Tiwary,S Badree,RA Tripathi,0,0,87
+2,13.1,Gujarat Lions,RA Tripathi,TM Head,MK Tiwary,0,0,87
+2,13.2,Gujarat Lions,RA Tripathi,TM Head,MK Tiwary,0,0,87
+2,13.3,Gujarat Lions,RA Tripathi,TM Head,MK Tiwary,4,0,91
+2,13.4,Gujarat Lions,RA Tripathi,TM Head,MK Tiwary,0,0,91
+2,13.5,Gujarat Lions,RA Tripathi,TM Head,MK Tiwary,0,1,91
+2,13.6,Gujarat Lions,BA Stokes,TM Head,MK Tiwary,1,0,92
+2,14.1,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,96
+2,14.2,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,100
+2,14.3,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,104
+2,14.4,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,108
+2,14.5,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,112
+2,14.6,Gujarat Lions,MK Tiwary,Sandeep Sharma,BA Stokes,4,0,116
+2,15.1,Gujarat Lions,BA Stokes,MM Sharma,MK Tiwary,4,0,120
+2,15.2,Gujarat Lions,BA Stokes,MM Sharma,MK Tiwary,1,0,121
+2,15.3,Gujarat Lions,MK Tiwary,MM Sharma,BA Stokes,0,0,121
+2,15.4,Gujarat Lions,MK Tiwary,MM Sharma,BA Stokes,0,0,121
+2,15.5,Gujarat Lions,MK Tiwary,MM Sharma,BA Stokes,0,0,121
+2,15.6,Gujarat Lions,MK Tiwary,MM Sharma,BA Stokes,0,0,121
+2,16.1,Gujarat Lions,BA Stokes,VR Aaron,MK Tiwary,0,0,121
+2,16.2,Gujarat Lions,BA Stokes,VR Aaron,MK Tiwary,4,0,125
+2,16.3,Gujarat Lions,BA Stokes,VR Aaron,MK Tiwary,4,0,129
+2,16.4,Gujarat Lions,BA Stokes,VR Aaron,MK Tiwary,0,0,129
+2,16.5,Gujarat Lions,BA Stokes,VR Aaron,MK Tiwary,0,1,129
+2,16.6,Gujarat Lions,MS Dhoni,VR Aaron,MK Tiwary,4,0,133
+2,17.1,Gujarat Lions,MK Tiwary,AR Patel,MS Dhoni,1,0,134
+2,17.2,Gujarat Lions,MS Dhoni,AR Patel,MK Tiwary,4,0,138
+2,17.3,Gujarat Lions,MS Dhoni,AR Patel,MK Tiwary,0,0,138
+2,17.4,Gujarat Lions,MS Dhoni,AR Patel,MK Tiwary,0,0,138
+2,17.5,Gujarat Lions,MS Dhoni,AR Patel,MK Tiwary,1,0,139
+2,17.6,Gujarat Lions,MK Tiwary,AR Patel,MS Dhoni,1,0,140
+2,18.1,Gujarat Lions,MS Dhoni,GJ Maxwell,MK Tiwary,1,0,141
