@@ -1,0 +1,13 @@
+#Steps to run the code
+
+1. Open terminal and type
+	$ pyspark  
+	(should open jupyter notebook)
+
+2. New terminal and type
+	$ start-dfs.sh
+	$ start-yarn.sh
+	$ jps (should give min 6 lines excluding SparkSubmit)
+
+3. Copy Phase3-DecisionTrees.py code on jupter notebook and predict the match!
+
