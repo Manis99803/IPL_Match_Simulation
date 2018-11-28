@@ -22,10 +22,10 @@ The technologies used in our project are:
 	- bowl_centroids.csv : File which has centroids of all the bowler cluster
 	 *Format* : Cluster number , Economy, Strike rate
 
-	- bats_res.csv : File which has details of to which cluster the batsman belongs.
+	- bats_cluster.csv : File which has details of to which cluster the batsman belongs.
 	*Format* : Batsman name, Cluster number
 
-	- bowl_res.csv : File which has details of which cluster the bowler belongs to.
+	- bowl_cluster.csv : File which has details of which cluster the bowler belongs to.
 	*Format* : Bowler name, Cluster number
 
 	- bats_details.csv : File which has average and strike rate of every batsman *Format* : Batsman name, Average, Strike rate
@@ -33,7 +33,7 @@ The technologies used in our project are:
 	- bowl_details.csv : File which has economy and strike rate of every bowler
 	 *Format* : Bowler name, Economy, Strike rate
 
-	- clsVscls.csv : File which has the cluster vs cluster probability of runs scoring.
+	- clsVScls.csv : File which has the cluster vs cluster probability of runs scoring.
 	 *Format* : Cluster 1,Cluster 2, prob(0), prob(1), prob(2), prob(3), prob(4), prob(6), prob(W)
 
 	- Probability.csv or Updated  Probabitity.csv : File which has player vs player probability statistics.
