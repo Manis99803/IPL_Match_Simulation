@@ -301,10 +301,11 @@ def calculate(batsman_name, bowler_name, team_no):
 		
 		# update the prob of 1 - prob(W) 
 		d[batsman_name][bowler_name]["W"][1] *= (1 -float(d[batsman_name][bowler_name]["W"][0]))
-		for i in range(6):
+		for i in range(7):
 			if(i!=5 and randomValue <= float(d[batsman_name][bowler_name][i])):
 				runs = i
 				wicket = 0
+				break
 	
 	
 	return (runs, wicket)
