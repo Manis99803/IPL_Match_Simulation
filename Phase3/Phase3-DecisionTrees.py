@@ -11,7 +11,7 @@ from pyspark.sql import SparkSession
 sparkSession = SparkSession.builder.appName("decision-tree-example").getOrCreate()
 
 #if dataset has header
-data = sparkSession.read.csv("file:///home/pratheeksha/Desktop/Phase3/InputCSVS/FinalDataSet4.csv", sep=',', header=True)
+data = sparkSession.read.csv("file:///home/pratheeksha/Desktop/Phase3/InputCSVS/FinalDataSet.csv", sep=',', header=True)
 
 #if dataset doesn't have header
 #data = sparkSession.read.csv("file:///home/pratheeksha/Desktop/Phase3/InputCSVS/FinalDataSet4.csv", sep=',', header=False)
