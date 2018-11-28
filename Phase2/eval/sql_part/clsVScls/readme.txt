@@ -2,9 +2,9 @@
 
 1. clsVScls.sql - will create database with tables mentioned in the code
 2. clsVScls.py  - will populate the DB tables by reading values from csv files
-				- performs sql query and creates output csv file clsVScls_otp.csv 
+	        - performs sql query and creates output csv file clsVScls_otp.csv 
 
-#steps to run the code:
+#Steps to run the code:
 
 1. Open terminal and type following commands to create database
 	
