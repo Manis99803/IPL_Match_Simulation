@@ -36,7 +36,7 @@ The technologies used in our project are:
 	- clsVScls.csv : File which has the cluster vs cluster probability of runs scoring.
 	 *Format* : Cluster 1,Cluster 2, prob(0), prob(1), prob(2), prob(3), prob(4), prob(6), prob(W)
 
-	- Probability.csv or Updated  Probabitity.csv : File which has player vs player probability statistics.
+	- UpdatedPlayerInfo.csv : File which has player vs player probability statistics.
 	 *Format* : Batsman name, Bowler name, prob(0), prob(1), prob(2), prob(3), prob(4), prob(6), prob(W)
 
 	- FinalPLayerData.csv : File with player info.
